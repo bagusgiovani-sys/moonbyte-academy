@@ -1,0 +1,2398 @@
+{
+  "courses": [
+    {
+      "id": "scratch",
+      "name": "Little Game Developer Level 1",
+      "category": "SD Programs",
+      "line": "SD",
+      "price": 2000000,
+      "sessions": 20,
+      "minutes": 120,
+      "prereq": "Scratch; usia 8–12; mampu membaca instruksi, memakai mouse/keyboard; laptop. Placement dan orang tua menyetujui ritme kelas.",
+      "outcome": "Cerita/game interaktif di Scratch, penjelasan logika dan laporan perkembangan orang tua.",
+      "minStudents": 4,
+      "maxStudents": 4,
+      "status": "Pilot bersyarat",
+      "prices": {
+        "4": 600000,
+        "10": 1100000,
+        "20": 2000000
+      },
+      "lessons": [
+        {
+          "session": 1,
+          "title": "Meet Scratch",
+          "outcome": "Animasi sapaan dengan nama samaran"
+        },
+        {
+          "session": 2,
+          "title": "Sequence & events",
+          "outcome": "Cerita dua karakter"
+        },
+        {
+          "session": 3,
+          "title": "Loops & costumes",
+          "outcome": "Animasi berulang"
+        },
+        {
+          "session": 4,
+          "title": "Mini-story showcase",
+          "outcome": "File cerita; keluaran paket 4"
+        },
+        {
+          "session": 5,
+          "title": "Coordinates",
+          "outcome": "Scene dengan titik mulai/akhir"
+        },
+        {
+          "session": 6,
+          "title": "Keyboard control",
+          "outcome": "Sprite terkendali"
+        },
+        {
+          "session": 7,
+          "title": "Conditions & sensing",
+          "outcome": "Permainan tangkap sederhana"
+        },
+        {
+          "session": 8,
+          "title": "Variables & score",
+          "outcome": "Game dengan skor"
+        },
+        {
+          "session": 9,
+          "title": "Broadcast & scenes",
+          "outcome": "Tiga scene terhubung"
+        },
+        {
+          "session": 10,
+          "title": "Game checkpoint",
+          "outcome": "Mini-game; keluaran paket 10"
+        },
+        {
+          "session": 11,
+          "title": "Debugging & planning",
+          "outcome": "Bug log bergambar dan ide final"
+        },
+        {
+          "session": 12,
+          "title": "Final project: game/story brief",
+          "outcome": "Brief final sederhana"
+        },
+        {
+          "session": 13,
+          "title": "Final: scene & sprites",
+          "outcome": "Aset dan scene final"
+        },
+        {
+          "session": 14,
+          "title": "Final: controls",
+          "outcome": "Interaksi utama"
+        },
+        {
+          "session": 15,
+          "title": "Final: rules",
+          "outcome": "Aturan utama bekerja"
+        },
+        {
+          "session": 16,
+          "title": "Final: ending & reset",
+          "outcome": "Game/cerita lengkap"
+        },
+        {
+          "session": 17,
+          "title": "Final: friend playtest",
+          "outcome": "Dua temuan pengguna"
+        },
+        {
+          "session": 18,
+          "title": "Final: improve",
+          "outcome": "Versi revisi"
+        },
+        {
+          "session": 19,
+          "title": "Final: rehearsal & credits",
+          "outcome": "File final + kartu cerita proses"
+        },
+        {
+          "session": 20,
+          "title": "Final: family showcase",
+          "outcome": "Karya dan laporan perkembangan"
+        }
+      ]
+    },
+    {
+      "id": "python1",
+      "name": "Little Python Programmer Level 1",
+      "category": "SMP / SMA Programs",
+      "line": "SMP / SMA",
+      "price": 2900000,
+      "sessions": 15,
+      "minutes": 120,
+      "prereq": "SMP atau SMA pemula; mampu mengelola file; latihan 1–2 jam/minggu.",
+      "outcome": "Kuis atau cerita interaktif Python dengan save/load dan penjelasan logika.",
+      "minStudents": 3,
+      "maxStudents": 6,
+      "status": "Usulan",
+      "prices": {
+        "4": 900000,
+        "10": 2000000,
+        "15": 2900000
+      },
+      "lessons": [
+        {
+          "session": 1,
+          "title": "Problem brief & Python input",
+          "outcome": "Brief kecil dan script sapaan tersimpan"
+        },
+        {
+          "session": 2,
+          "title": "Variables & types",
+          "outcome": "Script hitung dengan konversi tipe"
+        },
+        {
+          "session": 3,
+          "title": "Conditions",
+          "outcome": "Kuis dengan dua cabang"
+        },
+        {
+          "session": 4,
+          "title": "Mini quiz",
+          "outcome": "Kuis terminal; keluaran paket 4"
+        },
+        {
+          "session": 5,
+          "title": "Loops",
+          "outcome": "Game tebak angka"
+        },
+        {
+          "session": 6,
+          "title": "Lists",
+          "outcome": "Kuis dari list"
+        },
+        {
+          "session": 7,
+          "title": "Functions",
+          "outcome": "Program dengan tiga fungsi"
+        },
+        {
+          "session": 8,
+          "title": "Dictionaries",
+          "outcome": "Bank soal terstruktur"
+        },
+        {
+          "session": 9,
+          "title": "Debugging & AI code review",
+          "outcome": "Validasi, test table dan alasan menerima/menolak saran"
+        },
+        {
+          "session": 10,
+          "title": "Checkpoint mandiri",
+          "outcome": "Kuis lima soal; keluaran paket 10"
+        },
+        {
+          "session": 11,
+          "title": "Files & test cases + Final: story plan",
+          "outcome": "Save/load sederhana dan test table + Flowchart final dan backlog"
+        },
+        {
+          "session": 12,
+          "title": "Final: input flow + Final: content & state",
+          "outcome": "Menu final + Isi utama dapat dimainkan"
+        },
+        {
+          "session": 13,
+          "title": "Final: scoring + Final: persistence",
+          "outcome": "Score engine teruji + Save/load final"
+        },
+        {
+          "session": 14,
+          "title": "Final: playtest + Final: refactor & verify assistance",
+          "outcome": "Bug list dan feedback + Versi bersih, test report dan catatan bantuan"
+        },
+        {
+          "session": 15,
+          "title": "Final: documentation + Final: explain",
+          "outcome": "Repo serta demo pendek + Karya final serta rubrik individu"
+        }
+      ]
+    },
+    {
+      "id": "python2",
+      "name": "Little Python Programmer Level 2",
+      "category": "SMP / SMA Programs",
+      "line": "SMP / SMA",
+      "price": 2900000,
+      "sessions": 15,
+      "minutes": 120,
+      "prereq": "Little Python Programmer Level 1 atau lulus tes fungsi, list, loop dan kondisi.",
+      "outcome": "Game 2D dengan satu core loop, skor, level dan restart.",
+      "minStudents": 3,
+      "maxStudents": 6,
+      "status": "Usulan",
+      "prices": {
+        "4": 900000,
+        "10": 2000000,
+        "15": 2900000
+      },
+      "lessons": [
+        {
+          "session": 1,
+          "title": "Pygame setup",
+          "outcome": "Game window"
+        },
+        {
+          "session": 2,
+          "title": "Coordinates & sprites",
+          "outcome": "Scene dengan dua objek"
+        },
+        {
+          "session": 3,
+          "title": "Movement",
+          "outcome": "Pemain dapat dikendalikan"
+        },
+        {
+          "session": 4,
+          "title": "Collect mini-game",
+          "outcome": "Mini-game; keluaran paket 4"
+        },
+        {
+          "session": 5,
+          "title": "Timing & simulation checks",
+          "outcome": "Gerak konsisten dan tabel hasil uji"
+        },
+        {
+          "session": 6,
+          "title": "Obstacles",
+          "outcome": "Arena dengan collision"
+        },
+        {
+          "session": 7,
+          "title": "Game state",
+          "outcome": "Tiga state game"
+        },
+        {
+          "session": 8,
+          "title": "Lists & spawning",
+          "outcome": "Kumpulan target"
+        },
+        {
+          "session": 9,
+          "title": "Sound & feedback",
+          "outcome": "Feedback yang dapat dinonaktifkan"
+        },
+        {
+          "session": 10,
+          "title": "Checkpoint game",
+          "outcome": "Game satu level; keluaran paket 10"
+        },
+        {
+          "session": 11,
+          "title": "Level design + Final: game brief",
+          "outcome": "Rencana level dan test sheet + Brief final game 2D"
+        },
+        {
+          "session": 12,
+          "title": "Final: player controller + Final: interactions",
+          "outcome": "Player final + Core loop dimainkan"
+        },
+        {
+          "session": 13,
+          "title": "Final: progress + Final: menu & restart",
+          "outcome": "Progres game + Alur menu sampai restart"
+        },
+        {
+          "session": 14,
+          "title": "Final: playtest + Final: polish & AI review",
+          "outcome": "Playtest report + Release candidate dengan alasan revisi"
+        },
+        {
+          "session": 15,
+          "title": "Final: packaging + Final: defense",
+          "outcome": "Folder proyek + video + Game final dan refleksi"
+        }
+      ]
+    },
+    {
+      "id": "python3",
+      "name": "Little Python Programmer Level 3",
+      "category": "SMP / SMA Programs",
+      "line": "SMP / SMA",
+      "price": 2900000,
+      "sessions": 15,
+      "minutes": 120,
+      "prereq": "Python dasar; bersedia menjelaskan solusi dan menguji edge cases.",
+      "outcome": "Tiga solusi Python dengan test cases dan pembandingan pendekatan.",
+      "minStudents": 3,
+      "maxStudents": 6,
+      "status": "Usulan",
+      "prices": {
+        "4": 900000,
+        "10": 2000000,
+        "15": 2900000
+      },
+      "lessons": [
+        {
+          "session": 1,
+          "title": "Tracing & baseline",
+          "outcome": "Tabel trace dan baseline"
+        },
+        {
+          "session": 2,
+          "title": "Pseudocode",
+          "outcome": "Pseudocode dan Python setara"
+        },
+        {
+          "session": 3,
+          "title": "Linear search",
+          "outcome": "Fungsi search"
+        },
+        {
+          "session": 4,
+          "title": "Search challenge",
+          "outcome": "Mini-search; keluaran paket 4"
+        },
+        {
+          "session": 5,
+          "title": "Counting & frequency",
+          "outcome": "Frequency table"
+        },
+        {
+          "session": 6,
+          "title": "Sorting intuition",
+          "outcome": "Trace sorting"
+        },
+        {
+          "session": 7,
+          "title": "Built-in sorting",
+          "outcome": "Sorter beberapa kriteria"
+        },
+        {
+          "session": 8,
+          "title": "Binary search & counterexamples",
+          "outcome": "Dua fungsi, trace dan counterexample"
+        },
+        {
+          "session": 9,
+          "title": "Complexity intuition",
+          "outcome": "Tabel pertumbuhan operasi"
+        },
+        {
+          "session": 10,
+          "title": "Checkpoint algorithms",
+          "outcome": "Notebook solusi; keluaran paket 10"
+        },
+        {
+          "session": 11,
+          "title": "Testing & solution audit + Challenge portfolio: plan",
+          "outcome": "Suite edge cases dan audit solusi + Rencana portofolio algoritma"
+        },
+        {
+          "session": 12,
+          "title": "Challenge 1: implement + Challenge 1: compare",
+          "outcome": "Solusi pertama dengan tests + Catatan perbandingan"
+        },
+        {
+          "session": 13,
+          "title": "Challenge 2: aggregate + Challenge 2: robustness",
+          "outcome": "Solusi kedua dan test data + Validation strategy"
+        },
+        {
+          "session": 14,
+          "title": "Challenge 3: design + Challenge 3: test",
+          "outcome": "Pseudocode solusi ketiga + Solusi ketiga lengkap"
+        },
+        {
+          "session": 15,
+          "title": "Portfolio review + Algorithm defense",
+          "outcome": "Tiga solusi terdokumentasi + Asesmen penalaran dan refleksi"
+        }
+      ]
+    },
+    {
+      "id": "web1",
+      "name": "Little Software Developer Level 1",
+      "category": "SMP / SMA Programs",
+      "line": "SMP / SMA",
+      "price": 2900000,
+      "sessions": 15,
+      "minutes": 120,
+      "prereq": "SMP/SMA pemula; laptop; latihan 1–2 jam/minggu.",
+      "outcome": "Antarmuka web klub/hobi responsif; HTML/CSS, form demo dan design tokens. Belum backend.",
+      "minStudents": 3,
+      "maxStudents": 6,
+      "status": "Usulan",
+      "prices": {
+        "4": 900000,
+        "10": 2000000,
+        "15": 2900000
+      },
+      "lessons": [
+        {
+          "session": 1,
+          "title": "App interface brief & HTML",
+          "outcome": "Brief UI, sketsa dan halaman pertama"
+        },
+        {
+          "session": 2,
+          "title": "Text & structure",
+          "outcome": "Halaman semantik"
+        },
+        {
+          "session": 3,
+          "title": "Images & links",
+          "outcome": "Galeri dengan alt text"
+        },
+        {
+          "session": 4,
+          "title": "Login layout lab",
+          "outcome": "Mini-site dua halaman; keluaran paket 4"
+        },
+        {
+          "session": 5,
+          "title": "Design tokens & CSS basics",
+          "outcome": "Token sheet sederhana dan tema UI klub"
+        },
+        {
+          "session": 6,
+          "title": "Box model",
+          "outcome": "Card kegiatan"
+        },
+        {
+          "session": 7,
+          "title": "Flexbox",
+          "outcome": "Layout fleksibel"
+        },
+        {
+          "session": 8,
+          "title": "Grid",
+          "outcome": "Galeri responsif awal"
+        },
+        {
+          "session": 9,
+          "title": "Responsive design",
+          "outcome": "Versi mobile dan desktop"
+        },
+        {
+          "session": 10,
+          "title": "Site checkpoint",
+          "outcome": "Situs tiga halaman; keluaran paket 10"
+        },
+        {
+          "session": 11,
+          "title": "Accessibility & planning + Final: club website brief",
+          "outcome": "Audit dan sitemap final + Brief final dan daftar aset"
+        },
+        {
+          "session": 12,
+          "title": "Final: semantic pages + Final: design system",
+          "outcome": "Kerangka situs final + Komponen CSS reusable"
+        },
+        {
+          "session": 13,
+          "title": "Final: responsive layout + Final: content & forms",
+          "outcome": "Layout dua ukuran layar + Konten final; form jelas belum mengirim"
+        },
+        {
+          "session": 14,
+          "title": "Final: user test & AI design critique + Final: accessibility & code review",
+          "outcome": "Catatan usability dan keputusan revisi + Checklist aksesibilitas dan catatan perubahan"
+        },
+        {
+          "session": 15,
+          "title": "Final: publish + Final: presentation",
+          "outcome": "URL situs dan README + Situs final dan refleksi"
+        }
+      ]
+    },
+    {
+      "id": "web2",
+      "name": "Little Software Developer Level 2",
+      "category": "SMP / SMA Programs",
+      "line": "SMP / SMA",
+      "price": 2900000,
+      "sessions": 15,
+      "minutes": 120,
+      "prereq": "Little Software Developer Level 1 atau asesmen HTML/CSS dan file management.",
+      "outcome": "Planner atau quiz interaktif dengan JavaScript, storage lokal dan pengujian.",
+      "minStudents": 3,
+      "maxStudents": 6,
+      "status": "Usulan",
+      "prices": {
+        "4": 900000,
+        "10": 2000000,
+        "15": 2900000
+      },
+      "lessons": [
+        {
+          "session": 1,
+          "title": "JS refresher",
+          "outcome": "Script sederhana"
+        },
+        {
+          "session": 2,
+          "title": "Conditions",
+          "outcome": "Fungsi evaluasi"
+        },
+        {
+          "session": 3,
+          "title": "Functions & behavior contracts",
+          "outcome": "Dua fungsi reusable dengan contoh uji"
+        },
+        {
+          "session": 4,
+          "title": "Interactive form",
+          "outcome": "Mini-tool; keluaran paket 4"
+        },
+        {
+          "session": 5,
+          "title": "DOM selection",
+          "outcome": "UI dinamis"
+        },
+        {
+          "session": 6,
+          "title": "Events",
+          "outcome": "Form interaktif"
+        },
+        {
+          "session": 7,
+          "title": "Arrays & objects",
+          "outcome": "Daftar tugas"
+        },
+        {
+          "session": 8,
+          "title": "Rendering & delete",
+          "outcome": "Planner dengan CRUD lokal"
+        },
+        {
+          "session": 9,
+          "title": "Storage",
+          "outcome": "Planner persisten"
+        },
+        {
+          "session": 10,
+          "title": "Checkpoint app",
+          "outcome": "Mini-app; keluaran paket 10"
+        },
+        {
+          "session": 11,
+          "title": "Fetch & failure states + Final: app brief",
+          "outcome": "Loading/error/empty states + Brief final"
+        },
+        {
+          "session": 12,
+          "title": "Final: layout & structure + Final: input & validation",
+          "outcome": "App shell + Input flow"
+        },
+        {
+          "session": 13,
+          "title": "Final: state & render + Final: persistence",
+          "outcome": "Core app lengkap + Penyimpanan final"
+        },
+        {
+          "session": 14,
+          "title": "Final: testing & AI debugging + Final: usability",
+          "outcome": "Test report dan keputusan patch + UI diperbaiki"
+        },
+        {
+          "session": 15,
+          "title": "Final: deployment + Final: defense",
+          "outcome": "Demo serta source + App final dan asesmen"
+        }
+      ]
+    },
+    {
+      "id": "web3",
+      "name": "Little Software Developer Level 3",
+      "category": "SMP / SMA Programs",
+      "line": "SMP / SMA",
+      "price": 2900000,
+      "sessions": 15,
+      "minutes": 120,
+      "prereq": "Little Software Developer Level 2 atau placement JavaScript dan HTTP dasar.",
+      "outcome": "Aplikasi planner atau daftar dengan API, database dan pengujian.",
+      "minStudents": 3,
+      "maxStudents": 6,
+      "status": "Usulan",
+      "prices": {
+        "4": 900000,
+        "10": 2000000,
+        "15": 2900000
+      },
+      "lessons": [
+        {
+          "session": 1,
+          "title": "Client dan server",
+          "outcome": "Diagram alur aplikasi"
+        },
+        {
+          "session": 2,
+          "title": "JavaScript dan HTTP",
+          "outcome": "Client pemanggil API"
+        },
+        {
+          "session": 3,
+          "title": "Server pertama",
+          "outcome": "Server lokal berjalan"
+        },
+        {
+          "session": 4,
+          "title": "API data",
+          "outcome": "API daftar untuk checkpoint 4"
+        },
+        {
+          "session": 5,
+          "title": "Data dan model",
+          "outcome": "Skema data sederhana"
+        },
+        {
+          "session": 6,
+          "title": "Database dasar",
+          "outcome": "Database latihan"
+        },
+        {
+          "session": 7,
+          "title": "Tambah dan ubah data",
+          "outcome": "Form data tersimpan"
+        },
+        {
+          "session": 8,
+          "title": "Hapus dan kesalahan",
+          "outcome": "CRUD dasar"
+        },
+        {
+          "session": 9,
+          "title": "Keamanan dasar",
+          "outcome": "Checklist keamanan"
+        },
+        {
+          "session": 10,
+          "title": "Full-stack checkpoint",
+          "outcome": "Mini aplikasi full-stack untuk checkpoint 10"
+        },
+        {
+          "session": 11,
+          "title": "Final: rencana",
+          "outcome": "Brief proyek akhir"
+        },
+        {
+          "session": 12,
+          "title": "Final: backend",
+          "outcome": "API proyek"
+        },
+        {
+          "session": 13,
+          "title": "Final: antarmuka",
+          "outcome": "Aplikasi terhubung"
+        },
+        {
+          "session": 14,
+          "title": "Final: pengujian",
+          "outcome": "Aplikasi stabil"
+        },
+        {
+          "session": 15,
+          "title": "Final: demo",
+          "outcome": "Aplikasi daftar atau planner dengan database"
+        }
+      ]
+    },
+    {
+      "id": "excel",
+      "name": "Data & Decision Studio",
+      "category": "SMP / SMA Programs",
+      "line": "SMP / SMA",
+      "price": 1600000,
+      "sessions": 15,
+      "minutes": 120,
+      "prereq": "SMP/SMA; matematika dasar; Excel yang dimiliki atau spreadsheet setara.",
+      "outcome": "Workbook spreadsheet, dashboard anggaran dan memo keputusan berbukti.",
+      "minStudents": 4,
+      "maxStudents": 6,
+      "status": "Usulan",
+      "prices": {
+        "4": 600000,
+        "10": 1100000,
+        "15": 1600000
+      },
+      "lessons": [
+        {
+          "session": 1,
+          "title": "Spreadsheet & data",
+          "outcome": "Workbook dengan tipe konsisten"
+        },
+        {
+          "session": 2,
+          "title": "Formula & references",
+          "outcome": "Sheet anggaran"
+        },
+        {
+          "session": 3,
+          "title": "SUMIF & categories",
+          "outcome": "Rekap kategori"
+        },
+        {
+          "session": 4,
+          "title": "Chart checkpoint",
+          "outcome": "Laporan anggaran; keluaran paket 4"
+        },
+        {
+          "session": 5,
+          "title": "Cleaning",
+          "outcome": "Cleaning log"
+        },
+        {
+          "session": 6,
+          "title": "Sort & filter",
+          "outcome": "View data terpilih"
+        },
+        {
+          "session": 7,
+          "title": "IF & validation",
+          "outcome": "Budget guard"
+        },
+        {
+          "session": 8,
+          "title": "Lookup",
+          "outcome": "Lookup harga"
+        },
+        {
+          "session": 9,
+          "title": "Pivot",
+          "outcome": "Pivot table"
+        },
+        {
+          "session": 10,
+          "title": "Case checkpoint",
+          "outcome": "Workbook terverifikasi; keluaran paket 10"
+        },
+        {
+          "session": 11,
+          "title": "Data interpretation & AI claims + Practicum: questions",
+          "outcome": "Catatan interpretasi dan claim-check log + Analysis brief"
+        },
+        {
+          "session": 12,
+          "title": "Practicum: prepare + Practicum: calculate",
+          "outcome": "Dataset dan dictionary + Model anggaran"
+        },
+        {
+          "session": 13,
+          "title": "Practicum: summarize + Practicum: scenarios",
+          "outcome": "Dashboard sederhana + Dua skenario anggaran"
+        },
+        {
+          "session": 14,
+          "title": "Practicum: formula & AI audit + Practicum: recommendation",
+          "outcome": "Audit notes dan formula yang terverifikasi + Memo satu halaman"
+        },
+        {
+          "session": 15,
+          "title": "Practice assessment + Review & communicate",
+          "outcome": "Workbook asesmen + Portfolio workbook dan target lanjutan"
+        }
+      ]
+    },
+    {
+      "id": "creative",
+      "name": "AI Creative Studio",
+      "category": "SMP / SMA Programs",
+      "line": "SMP / SMA",
+      "price": 1800000,
+      "sessions": 15,
+      "minutes": 120,
+      "prereq": "SMP/SMA; alat sesuai usia atau demo tutor tanpa akun mandiri; cek fakta wajib.",
+      "outcome": "Media belajar interaktif dengan sumber, feedback pengguna dan catatan bantuan AI.",
+      "minStudents": 3,
+      "maxStudents": 6,
+      "status": "Usulan",
+      "prices": {
+        "4": 600000,
+        "10": 1300000,
+        "15": 1800000
+      },
+      "lessons": [
+        {
+          "session": 1,
+          "title": "AI literacy",
+          "outcome": "Lembar cek fakta"
+        },
+        {
+          "session": 2,
+          "title": "Brief & audience",
+          "outcome": "Creative brief"
+        },
+        {
+          "session": 3,
+          "title": "Prompt & iteration",
+          "outcome": "Dua versi dan catatan revisi"
+        },
+        {
+          "session": 4,
+          "title": "Mini media checkpoint",
+          "outcome": "Media belajar; keluaran paket 4"
+        },
+        {
+          "session": 5,
+          "title": "Privacy & permissions",
+          "outcome": "Aturan penggunaan proyek"
+        },
+        {
+          "session": 6,
+          "title": "Story structure",
+          "outcome": "Storyboard"
+        },
+        {
+          "session": 7,
+          "title": "Visual consistency",
+          "outcome": "Prototype media"
+        },
+        {
+          "session": 8,
+          "title": "Interaction",
+          "outcome": "Media interaktif"
+        },
+        {
+          "session": 9,
+          "title": "Verification",
+          "outcome": "Verification log"
+        },
+        {
+          "session": 10,
+          "title": "Checkpoint & reflection",
+          "outcome": "Karya kecil; keluaran paket 10"
+        },
+        {
+          "session": 11,
+          "title": "Testing plan + Final: learning media brief",
+          "outcome": "Test plan + Brief final"
+        },
+        {
+          "session": 12,
+          "title": "Final: content + Final: assets",
+          "outcome": "Naskah final + Asset sheet"
+        },
+        {
+          "session": 13,
+          "title": "Final: assembly + Final: user test",
+          "outcome": "Prototype dapat dimainkan + Feedback terstruktur"
+        },
+        {
+          "session": 14,
+          "title": "Final: revision + Final: disclosure",
+          "outcome": "Versi kedua + Catatan provenance"
+        },
+        {
+          "session": 15,
+          "title": "Final: prepare showcase + Final: explain & transfer",
+          "outcome": "Paket presentasi + Karya final serta refleksi"
+        }
+      ]
+    },
+    {
+      "id": "frontend1",
+      "name": "Frontend Level 1: Movie App",
+      "category": "Career Programs",
+      "line": "Career",
+      "price": 5600000,
+      "sessions": 14,
+      "minutes": 180,
+      "prereq": "SMA siap/mahasiswa/dewasa pemula; komputer dasar dan latihan 4–6 jam/minggu.",
+      "outcome": "Movie App: Figma, design tokens, katalog, search, detail dan favorit lokal; adapter siap API L1.",
+      "minStudents": 3,
+      "maxStudents": 6,
+      "status": "Usulan",
+      "prices": {
+        "3": 1400000,
+        "7": 3100000,
+        "14": 5600000
+      },
+      "lessons": [
+        {
+          "session": 1,
+          "title": "Web, tools & Git",
+          "outcome": "Repo berjalan lokal dengan commit pertama"
+        },
+        {
+          "session": 2,
+          "title": "Figma: layout & hierarchy + Design tokens & CSS",
+          "outcome": "Dua frame dengan urutan informasi yang jelas + Token sheet dan kartu film HTML/CSS"
+        },
+        {
+          "session": 3,
+          "title": "Slicing: katalog responsif",
+          "outcome": "Hasil paket 4: halaman katalog statis dari Figma"
+        },
+        {
+          "session": 4,
+          "title": "JavaScript: data & functions + DOM, events & forms",
+          "outcome": "Fungsi katalog dengan fixture film fiktif + Katalog interaktif tanpa framework"
+        },
+        {
+          "session": 5,
+          "title": "Async & API states",
+          "outcome": "Panel data dengan empat state eksplisit"
+        },
+        {
+          "session": 6,
+          "title": "React: component & props + State & local favorites",
+          "outcome": "Komponen React dengan typed props sederhana + Favorit bertahan setelah reload pada browser yang sama"
+        },
+        {
+          "session": 7,
+          "title": "Checkpoint: mini movie browser",
+          "outcome": "Hasil paket 10: mini Movie App lokal dengan Figma dan README"
+        },
+        {
+          "session": 8,
+          "title": "Routing, TypeScript & readiness + Final project: Movie App brief",
+          "outcome": "Latihan multi-page siap masuk final + Brief Movie App, acceptance list dan desain yang disetujui"
+        },
+        {
+          "session": 9,
+          "title": "Final: app shell & design slicing",
+          "outcome": "UI final tersusun dari token dan komponen"
+        },
+        {
+          "session": 10,
+          "title": "Final: catalog & search + Final: detail & navigation",
+          "outcome": "Katalog dan pencarian final + Detail film dengan URL langsung"
+        },
+        {
+          "session": 11,
+          "title": "Final: favorites & storage",
+          "outcome": "Daftar favorit lokal final"
+        },
+        {
+          "session": 12,
+          "title": "Final: backend-ready integration + Final: tests & accessibility",
+          "outcome": "Frontend siap disambungkan ke API L1 + Test report dan perbaikan prioritas"
+        },
+        {
+          "session": 13,
+          "title": "Final: deploy & handover",
+          "outcome": "Demo, repo dan panduan setup"
+        },
+        {
+          "session": 14,
+          "title": "Final: demo & defense",
+          "outcome": "Portfolio milestone frontend Movie App"
+        }
+      ]
+    },
+    {
+      "id": "backend1",
+      "name": "Backend Level 1: Movie App",
+      "category": "Career Programs",
+      "line": "Career",
+      "price": 5600000,
+      "sessions": 14,
+      "minutes": 180,
+      "prereq": "JavaScript, async, Git dan HTTP dasar; Frontend L1 atau placement setara.",
+      "outcome": "Movie API baru: katalog fiktif, auth, watchlist privat, SQL/RLS, tests dan integrasi frontend L1.",
+      "minStudents": 3,
+      "maxStudents": 6,
+      "status": "Usulan",
+      "prices": {
+        "3": 1400000,
+        "7": 3100000,
+        "14": 5600000
+      },
+      "lessons": [
+        {
+          "session": 1,
+          "title": "HTTP & API workspace",
+          "outcome": "Repo server dengan health endpoint"
+        },
+        {
+          "session": 2,
+          "title": "Routes & validation + SQL & data model",
+          "outcome": "Read API dengan kontrak JSON + Migration, seed dan data dictionary"
+        },
+        {
+          "session": 3,
+          "title": "Checkpoint: movie catalog API",
+          "outcome": "Hasil paket 4: API katalog read-only dengan dokumentasi"
+        },
+        {
+          "session": 4,
+          "title": "Writes & constraints + Identity with managed auth",
+          "outcome": "Latihan CRUD dan constraint + Auth adapter dan diagram alur token"
+        },
+        {
+          "session": 5,
+          "title": "Watchlist & ownership",
+          "outcome": "Watchlist privat per akun"
+        },
+        {
+          "session": 6,
+          "title": "Authorized CRUD + Integration & error handling",
+          "outcome": "Endpoint tulis dengan role checks + Mini frontend terhubung ke watchlist"
+        },
+        {
+          "session": 7,
+          "title": "Checkpoint: authenticated mini API",
+          "outcome": "Hasil paket 10: mini Movie API dengan auth dan ownership"
+        },
+        {
+          "session": 8,
+          "title": "Contracts & deployment rehearsal + Final project: Movie API contract",
+          "outcome": "Contract checklist dan deploy rehearsal + Backlog serta kontrak API final"
+        },
+        {
+          "session": 9,
+          "title": "Final: schema & catalog reads",
+          "outcome": "Database serta read API final"
+        },
+        {
+          "session": 10,
+          "title": "Final: auth & permissions + Final: persistent watchlist",
+          "outcome": "Login dan akses database final + Watchlist tersimpan di database"
+        },
+        {
+          "session": 11,
+          "title": "Final: frontend integration",
+          "outcome": "Movie App end-to-end"
+        },
+        {
+          "session": 12,
+          "title": "Final: validation & API docs + Final: integration & security tests",
+          "outcome": "Dokumentasi lengkap dengan contoh berhasil/gagal + Test suite dan bug log"
+        },
+        {
+          "session": 13,
+          "title": "Final: deployment & recovery",
+          "outcome": "Deployment guide, quota checklist dan fallback lokal"
+        },
+        {
+          "session": 14,
+          "title": "Final: full-stack demo & defense",
+          "outcome": "Portfolio milestone backend Movie App"
+        }
+      ]
+    },
+    {
+      "id": "frontend",
+      "name": "Frontend Level 2: Instagram Clone App",
+      "category": "Career Programs",
+      "line": "Career",
+      "price": 7100000,
+      "sessions": 14,
+      "minutes": 180,
+      "prereq": "Frontend L1 atau placement React, TypeScript dasar, routing, async dan Git; latihan 4–6 jam/minggu.",
+      "outcome": "Figma dan design tokens ke Instagram Clone App: auth, feed, upload, comments/likes dan profile; satu extension bila core selesai.",
+      "minStudents": 3,
+      "maxStudents": 6,
+      "status": "Usulan",
+      "prices": {
+        "3": 1800000,
+        "7": 3800000,
+        "14": 7100000
+      },
+      "lessons": [
+        {
+          "session": 1,
+          "title": "Level 2 readiness & architecture",
+          "outcome": "Peta Instagram Clone App dan gap pribadi"
+        },
+        {
+          "session": 2,
+          "title": "Figma: user flows & components + Design tokens & slicing system",
+          "outcome": "Figma flow dan reusable UI kit + Design token sheet dan primitive UI"
+        },
+        {
+          "session": 3,
+          "title": "Login page & responsive slicing",
+          "outcome": "Hasil paket 4: login/register responsif dari Figma"
+        },
+        {
+          "session": 4,
+          "title": "Typed API adapter & contracts + Server state & cache",
+          "outcome": "Lapisan API typed yang dapat diganti + Feed latihan dengan query lifecycle"
+        },
+        {
+          "session": 5,
+          "title": "Forms & mutation states",
+          "outcome": "Form mutation yang dapat dipulihkan"
+        },
+        {
+          "session": 6,
+          "title": "Image selection & preview + Relations & navigation",
+          "outcome": "Upload widget lokal dengan batas jelas + Layar relasi dengan state konsisten"
+        },
+        {
+          "session": 7,
+          "title": "Checkpoint: social UI prototype",
+          "outcome": "Hasil paket 10: prototype Instagram Clone App dengan Figma dan mocks"
+        },
+        {
+          "session": 8,
+          "title": "Integration rehearsal & accessibility + Final project: Instagram Clone App",
+          "outcome": "Readiness report dan prioritas perbaikan + Brief, UI kit dan acceptance criteria final"
+        },
+        {
+          "session": 9,
+          "title": "Final: auth & app shell",
+          "outcome": "Shell dan auth final"
+        },
+        {
+          "session": 10,
+          "title": "Final: feed & post detail + Final: comments & likes",
+          "outcome": "Feed serta detail final + Interaksi sosial final"
+        },
+        {
+          "session": 11,
+          "title": "Final: upload & create post",
+          "outcome": "Alur buat post dengan gambar"
+        },
+        {
+          "session": 12,
+          "title": "Final: profile & selected extension + Final: tests, accessibility & design QA",
+          "outcome": "Profil final dan satu extension terdokumentasi + Laporan tes serta perbaikan UX"
+        },
+        {
+          "session": 13,
+          "title": "Final: release & portfolio evidence",
+          "outcome": "Demo Instagram Clone App dan case study draft"
+        },
+        {
+          "session": 14,
+          "title": "Final: demo & independent change",
+          "outcome": "Portfolio milestone frontend Level 2"
+        }
+      ]
+    },
+    {
+      "id": "backend",
+      "name": "Backend Level 2: Instagram Clone App",
+      "category": "Career Programs",
+      "line": "Career",
+      "price": 7100000,
+      "sessions": 14,
+      "minutes": 180,
+      "prereq": "Backend L1 atau placement API, SQL join, auth/ownership dan async; latihan 4–6 jam/minggu.",
+      "outcome": "API sosial baru: auth, RLS, posts/feed, uploads, comments/likes; satu extension follow/save/search dan contract tests.",
+      "minStudents": 3,
+      "maxStudents": 6,
+      "status": "Usulan",
+      "prices": {
+        "3": 1800000,
+        "7": 3800000,
+        "14": 7100000
+      },
+      "lessons": [
+        {
+          "session": 1,
+          "title": "Level 2 contract & threat model",
+          "outcome": "Contract map Instagram Clone App"
+        },
+        {
+          "session": 2,
+          "title": "Relational schema & constraints + Auth adapter & row policies",
+          "outcome": "ERD dan migration latihan + Role matrix dan policy tests"
+        },
+        {
+          "session": 3,
+          "title": "Checkpoint: owned posts API",
+          "outcome": "Hasil paket 4: API posts berizin dengan kontrak JSON"
+        },
+        {
+          "session": 4,
+          "title": "Transactions, comments & counts + Likes & idempotent operations",
+          "outcome": "API komentar dengan owner checks + Like/unlike API yang deterministik"
+        },
+        {
+          "session": 5,
+          "title": "Storage & upload permissions",
+          "outcome": "Upload latihan dengan izin pemilik"
+        },
+        {
+          "session": 6,
+          "title": "Follow, save & query design + API compatibility & errors",
+          "outcome": "Relasi opsional pada sandbox + Contract test suite dan daftar deviasi"
+        },
+        {
+          "session": 7,
+          "title": "Checkpoint: social API sandbox",
+          "outcome": "Hasil paket 10: sandbox API sosial beserta policy tests"
+        },
+        {
+          "session": 8,
+          "title": "Hosting rehearsal & budget + Final project: contract Instagram Clone App",
+          "outcome": "Deployment spike dan quota budget + Contract, ERD dan backlog final"
+        },
+        {
+          "session": 9,
+          "title": "Final: identity & profile policies",
+          "outcome": "Identity dan profile API final"
+        },
+        {
+          "session": 10,
+          "title": "Final: posts, feed & media + Final: comments & likes correctness",
+          "outcome": "Posts/feed/upload end-to-end + Interaksi inti final"
+        },
+        {
+          "session": 11,
+          "title": "Final: extension & client integration",
+          "outcome": "API final terintegrasi dengan scope pilihan"
+        },
+        {
+          "session": 12,
+          "title": "Final: contract & integration tests + Final: security & quota review",
+          "outcome": "Regression report dan API docs + Security checklist berbukti dan issue register"
+        },
+        {
+          "session": 13,
+          "title": "Final: deploy, backup & handover",
+          "outcome": "Deployment guide, quota usage dan fallback lokal"
+        },
+        {
+          "session": 14,
+          "title": "Final: API defense & end-to-end demo",
+          "outcome": "Portfolio milestone backend Level 2"
+        }
+      ]
+    },
+    {
+      "id": "data",
+      "name": "Data Analyst: SQL & Dashboard",
+      "category": "Career Programs",
+      "line": "Career",
+      "price": 3800000,
+      "sessions": 14,
+      "minutes": 180,
+      "prereq": "Spreadsheet dasar; SMA siap/dewasa; latihan 3–5 jam/minggu. Windows untuk Power BI Desktop, alternatif spreadsheet tersedia.",
+      "outcome": "Bukti kompetensi SQL, cleaning, dashboard dan decision memo; Python tidak dipadatkan ke modul ini.",
+      "minStudents": 3,
+      "maxStudents": 6,
+      "status": "Usulan",
+      "prices": {
+        "3": 1000000,
+        "7": 2100000,
+        "14": 3800000
+      },
+      "lessons": [
+        {
+          "session": 1,
+          "title": "Business question & baseline",
+          "outcome": "Problem statement dan baseline keterampilan"
+        },
+        {
+          "session": 2,
+          "title": "Tipe data & cleaning + Formula & lookup",
+          "outcome": "Data dictionary dan cleaning log + Workbook dengan formula yang dapat diperiksa"
+        },
+        {
+          "session": 3,
+          "title": "Pivot & insight singkat",
+          "outcome": "Laporan satu halaman; keluaran paket 4"
+        },
+        {
+          "session": 4,
+          "title": "SQL SELECT & filter + SQL aggregation",
+          "outcome": "Lima query tersimpan + Tabel KPI per segmen"
+        },
+        {
+          "session": 5,
+          "title": "SQL joins & grain",
+          "outcome": "Join dengan pemeriksaan row count"
+        },
+        {
+          "session": 6,
+          "title": "SQL dates & CTE + Dashboard dasar",
+          "outcome": "Query tren dan catatan asumsi + Dashboard dengan tiga KPI dan filter"
+        },
+        {
+          "session": 7,
+          "title": "Case checkpoint",
+          "outcome": "SQL + dashboard + memo; keluaran paket 10"
+        },
+        {
+          "session": 8,
+          "title": "Statistik & uncertainty + Practicum 1: scoping",
+          "outcome": "Catatan statistik dengan dua keterbatasan + Analysis plan dan data dictionary"
+        },
+        {
+          "session": 9,
+          "title": "Practicum 1: quality",
+          "outcome": "Dataset bersih dan audit log"
+        },
+        {
+          "session": 10,
+          "title": "Practicum 1: model & queries + Practicum 1: dashboard",
+          "outcome": "Model serta lima query keputusan + Dashboard dengan filter konsisten"
+        },
+        {
+          "session": 11,
+          "title": "Practicum 2: unseen case",
+          "outcome": "Analisis pendek tanpa solusi tutor"
+        },
+        {
+          "session": 12,
+          "title": "Decision memo + Peer audit & AI checking",
+          "outcome": "Dua tindakan dengan bukti dan risiko + Error log dan revisi analisis"
+        },
+        {
+          "session": 13,
+          "title": "Stakeholder presentation",
+          "outcome": "Slide ringkas dan dashboard final"
+        },
+        {
+          "session": 14,
+          "title": "Competency assessment",
+          "outcome": "Paket bukti SQL/dashboard/memo dan rencana lanjutan"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "AI Product Engineer: Solopreneur",
+      "category": "Career Programs",
+      "line": "Career",
+      "price": 11600000,
+      "sessions": 14,
+      "minutes": 180,
+      "prereq": "Program spesialis mandiri untuk peserta setelah SWE Level 2 atau placement full-stack setara: React, SQL, API, auth/RLS dan tests; latihan 4–6 jam/minggu.",
+      "outcome": "Solopreneur Sales & Operations App: discovery, Figma/tokens, katalog-cart-order, kasir/admin, transaksi tepercaya dan ringkasan penjualan; AI membantu proses engineering.",
+      "minStudents": 3,
+      "maxStudents": 4,
+      "status": "Usulan",
+      "prices": {
+        "3": 2900000,
+        "7": 6300000,
+        "14": 11600000
+      },
+      "lessons": [
+        {
+          "session": 1,
+          "title": "UMKM discovery & problem framing",
+          "outcome": "Problem brief satu outlet dengan asumsi terpisah dari bukti"
+        },
+        {
+          "session": 2,
+          "title": "Workflow, scope & success measures + Figma: service flow & prototype",
+          "outcome": "PRD ringkas, metrik tugas dan batas MVP + Prototype Figma untuk dua peran"
+        },
+        {
+          "session": 3,
+          "title": "Design tokens & validated prototype",
+          "outcome": "Hasil paket 4: brief, Figma prototype, token sheet dan feedback log"
+        },
+        {
+          "session": 4,
+          "title": "Architecture & business invariants + Figma-to-code & AI-assisted workflow",
+          "outcome": "ERD dan architecture decision record + UI primitives berbasis tokens dan change log"
+        },
+        {
+          "session": 5,
+          "title": "Catalog & operator permissions",
+          "outcome": "Slice admin katalog yang teruji"
+        },
+        {
+          "session": 6,
+          "title": "Trusted checkout transaction + Idempotency & order state",
+          "outcome": "Checkout slice dengan order/item snapshot + Failure-handling slice dan state table"
+        },
+        {
+          "session": 7,
+          "title": "Checkpoint: business vertical slice",
+          "outcome": "Hasil paket 10: prototype UMKM end-to-end dengan transaksi teruji"
+        },
+        {
+          "session": 8,
+          "title": "Readiness, usability & scope gate + Final project: Solopreneur Sales & Operations App",
+          "outcome": "Final backlog dan evidence log + Brief final, desain dan scope terukur"
+        },
+        {
+          "session": 9,
+          "title": "Final: design system & catalog",
+          "outcome": "UI final konsisten dengan tokens"
+        },
+        {
+          "session": 10,
+          "title": "Final: identity & role boundaries + Final: trusted orders & checkout",
+          "outcome": "Akses final dengan akun latihan berbeda + Checkout final yang dapat direkonsiliasi"
+        },
+        {
+          "session": 11,
+          "title": "Final: cashier queue & manual payment",
+          "outcome": "Order operations final dengan actor/time audit"
+        },
+        {
+          "session": 12,
+          "title": "Final: owner summary & usability + Final: failure, permission & recovery tests",
+          "outcome": "Ringkasan penjualan dan usability findings + Acceptance report dan daftar risiko tersisa"
+        },
+        {
+          "session": 13,
+          "title": "Final: release rehearsal & handover",
+          "outcome": "Demo, user guide, architecture note dan rencana pilot"
+        },
+        {
+          "session": 14,
+          "title": "Final: product demo & business defense",
+          "outcome": "Portfolio UMKM product dengan metrik pengujian dan rencana iterasi"
+        }
+      ]
+    },
+    {
+      "id": "vibe",
+      "name": "Vibe Coding Studio: Game & Creator Apps",
+      "category": "Career Programs",
+      "line": "Career",
+      "price": 4800000,
+      "sessions": 14,
+      "minutes": 180,
+      "prereq": "Pemula SMA siap/dewasa; mampu menggunakan komputer dan mengelola file; alat AI sesuai usia.",
+      "outcome": "Game browser, content planner atau aplikasi sederhana dengan bantuan AI; diuji, didokumentasikan dan dipresentasikan.",
+      "minStudents": 3,
+      "maxStudents": 6,
+      "status": "Usulan",
+      "prices": {
+        "3": 1300000,
+        "7": 2800000,
+        "14": 4800000
+      },
+      "lessons": [
+        {
+          "session": 1,
+          "title": "Ide jadi brief",
+          "outcome": "Brief dan kriteria sukses"
+        },
+        {
+          "session": 2,
+          "title": "Prompt dan iterasi",
+          "outcome": "Prototipe pertama"
+        },
+        {
+          "session": 3,
+          "title": "UI dan konten",
+          "outcome": "Halaman responsif; checkpoint 3 sesi"
+        },
+        {
+          "session": 4,
+          "title": "Interaksi dan state",
+          "outcome": "Fitur interaktif"
+        },
+        {
+          "session": 5,
+          "title": "Game loop atau creator tool",
+          "outcome": "Prototipe dengan satu alur lengkap"
+        },
+        {
+          "session": 6,
+          "title": "Data lokal",
+          "outcome": "Aplikasi yang mengingat progres"
+        },
+        {
+          "session": 7,
+          "title": "Debug dan checkpoint",
+          "outcome": "Mini app; checkpoint 7 sesi"
+        },
+        {
+          "session": 8,
+          "title": "Desain responsif dan aksesibilitas",
+          "outcome": "UI yang lebih rapi"
+        },
+        {
+          "session": 9,
+          "title": "Keamanan dan batas AI",
+          "outcome": "Checklist risiko dan batas"
+        },
+        {
+          "session": 10,
+          "title": "Rencana proyek",
+          "outcome": "Brief final dan sketsa"
+        },
+        {
+          "session": 11,
+          "title": "Bangun proyek",
+          "outcome": "Proyek berjalan lokal"
+        },
+        {
+          "session": 12,
+          "title": "Uji pengguna",
+          "outcome": "Catatan feedback"
+        },
+        {
+          "session": 13,
+          "title": "Rilis aman",
+          "outcome": "Demo dan README"
+        },
+        {
+          "session": 14,
+          "title": "Demo dan refleksi",
+          "outcome": "Game, creator tool atau aplikasi sederhana"
+        }
+      ]
+    },
+    {
+      "id": "agent",
+      "name": "AI Agent Engineer",
+      "category": "Career Programs",
+      "line": "Career",
+      "price": 8400000,
+      "sessions": 14,
+      "minutes": 180,
+      "prereq": "JavaScript atau Python, API HTTP, async dan Git dasar; placement atau pengalaman setara.",
+      "outcome": "AI Research & Knowledge Agent: retrieval bersumber, tool terkontrol, evaluasi, batas biaya dan persetujuan manusia.",
+      "minStudents": 3,
+      "maxStudents": 6,
+      "status": "Usulan",
+      "prices": {
+        "3": 2100000,
+        "7": 4600000,
+        "14": 8400000
+      },
+      "lessons": [
+        {
+          "session": 1,
+          "title": "Masalah dan baseline",
+          "outcome": "Brief tugas dan kriteria hasil"
+        },
+        {
+          "session": 2,
+          "title": "Model API dan output",
+          "outcome": "Fungsi model terstruktur"
+        },
+        {
+          "session": 3,
+          "title": "Prompt dan checkpoint",
+          "outcome": "Asisten terstruktur; checkpoint 3 sesi"
+        },
+        {
+          "session": 4,
+          "title": "Tool calling",
+          "outcome": "Tool dengan kontrak input/output"
+        },
+        {
+          "session": 5,
+          "title": "Workflow dan kontrol",
+          "outcome": "Workflow riset dengan log"
+        },
+        {
+          "session": 6,
+          "title": "Retrieval dan sumber",
+          "outcome": "Jawaban dengan rujukan sumber"
+        },
+        {
+          "session": 7,
+          "title": "Agent loop dan checkpoint",
+          "outcome": "Agent riset read-only; checkpoint 7 sesi"
+        },
+        {
+          "session": 8,
+          "title": "Evaluasi",
+          "outcome": "Hasil eval berulang"
+        },
+        {
+          "session": 9,
+          "title": "Prompt injection dan privasi",
+          "outcome": "Threat checklist dan pengujian"
+        },
+        {
+          "session": 10,
+          "title": "Persetujuan dan actions",
+          "outcome": "Alur human approval"
+        },
+        {
+          "session": 11,
+          "title": "Final: desain agent",
+          "outcome": "Arsitektur dan scope akhir"
+        },
+        {
+          "session": 12,
+          "title": "Final: implementasi",
+          "outcome": "Prototipe agent"
+        },
+        {
+          "session": 13,
+          "title": "Final: evaluasi dan operasi",
+          "outcome": "Laporan uji dan perbaikan"
+        },
+        {
+          "session": 14,
+          "title": "Final: demo dan handover",
+          "outcome": "AI Research & Knowledge Agent beserta eval dan panduan"
+        }
+      ]
+    },
+    {
+      "id": "basic",
+      "name": "English Foundations",
+      "category": "English Programs",
+      "line": "English",
+      "price": 2400000,
+      "sessions": 20,
+      "minutes": 120,
+      "prereq": "Placement pemula; batch usia/kesiapan serupa; latihan 15 menit/hari.",
+      "outcome": "Percakapan sehari-hari dan laporan kemampuan dari rekaman tugas setara.",
+      "minStudents": 3,
+      "maxStudents": 6,
+      "status": "Usulan",
+      "prices": {
+        "4": 600000,
+        "10": 1300000,
+        "20": 2400000
+      },
+      "lessons": [
+        {
+          "session": 1,
+          "title": "Diagnostic & introductions",
+          "outcome": "Rekaman 60 detik dan target personal"
+        },
+        {
+          "session": 2,
+          "title": "Questions",
+          "outcome": "Dialog lima pertukaran"
+        },
+        {
+          "session": 3,
+          "title": "Numbers & time",
+          "outcome": "Jadwal lisan"
+        },
+        {
+          "session": 4,
+          "title": "Everyday exchange",
+          "outcome": "Dialog terukur; keluaran paket 4"
+        },
+        {
+          "session": 5,
+          "title": "Routines",
+          "outcome": "Audio rutinitas"
+        },
+        {
+          "session": 6,
+          "title": "Descriptions",
+          "outcome": "Deskripsi satu menit"
+        },
+        {
+          "session": 7,
+          "title": "Listening detail",
+          "outcome": "Lembar listening"
+        },
+        {
+          "session": 8,
+          "title": "Requests & clarification",
+          "outcome": "Dialog repair strategies"
+        },
+        {
+          "session": 9,
+          "title": "Past experiences",
+          "outcome": "Audio pengalaman"
+        },
+        {
+          "session": 10,
+          "title": "Checkpoint communication",
+          "outcome": "Rekaman pembanding; keluaran paket 10"
+        },
+        {
+          "session": 11,
+          "title": "Plans & intentions",
+          "outcome": "Rencana lisan"
+        },
+        {
+          "session": 12,
+          "title": "Practice cycle: listening",
+          "outcome": "Listening log"
+        },
+        {
+          "session": 13,
+          "title": "Practice cycle: services",
+          "outcome": "Dialog layanan"
+        },
+        {
+          "session": 14,
+          "title": "Practice cycle: directions",
+          "outcome": "Instruksi rute"
+        },
+        {
+          "session": 15,
+          "title": "Practice cycle: messages",
+          "outcome": "Tiga pesan pendek"
+        },
+        {
+          "session": 16,
+          "title": "Practice cycle: pronunciation",
+          "outcome": "Before/after audio"
+        },
+        {
+          "session": 17,
+          "title": "Practice cycle: interaction",
+          "outcome": "Percakapan tiga menit"
+        },
+        {
+          "session": 18,
+          "title": "Integrated rehearsal",
+          "outcome": "Catatan dan pesan konfirmasi"
+        },
+        {
+          "session": 19,
+          "title": "Transfer assessment",
+          "outcome": "Asesmen komunikasi"
+        },
+        {
+          "session": 20,
+          "title": "Progress review",
+          "outcome": "Laporan kemampuan dan rencana latihan"
+        }
+      ]
+    },
+    {
+      "id": "college",
+      "name": "English for College",
+      "category": "English Programs",
+      "line": "English",
+      "price": 3100000,
+      "sessions": 20,
+      "minutes": 120,
+      "prereq": "Placement percakapan dasar; SMA/mahasiswa; materi akademik pendek.",
+      "outcome": "Email, ringkasan bersumber, presentasi dan respons seminar.",
+      "minStudents": 3,
+      "maxStudents": 6,
+      "status": "Usulan",
+      "prices": {
+        "4": 800000,
+        "10": 1700000,
+        "20": 3100000
+      },
+      "lessons": [
+        {
+          "session": 1,
+          "title": "Placement & campus goals",
+          "outcome": "Baseline dan target"
+        },
+        {
+          "session": 2,
+          "title": "Email to lecturer",
+          "outcome": "Email pertama"
+        },
+        {
+          "session": 3,
+          "title": "Group communication",
+          "outcome": "Action notes"
+        },
+        {
+          "session": 4,
+          "title": "Campus communication checkpoint",
+          "outcome": "Email + dialog; keluaran paket 4"
+        },
+        {
+          "session": 5,
+          "title": "Reading strategies",
+          "outcome": "Reading notes"
+        },
+        {
+          "session": 6,
+          "title": "Source evaluation",
+          "outcome": "Source comparison"
+        },
+        {
+          "session": 7,
+          "title": "Paraphrase",
+          "outcome": "Paragraf bersumber"
+        },
+        {
+          "session": 8,
+          "title": "Summary",
+          "outcome": "Summary dengan sumber"
+        },
+        {
+          "session": 9,
+          "title": "Academic argument",
+          "outcome": "Paragraf argumentatif"
+        },
+        {
+          "session": 10,
+          "title": "Academic checkpoint",
+          "outcome": "Writing sample; keluaran paket 10"
+        },
+        {
+          "session": 11,
+          "title": "Listening & notes",
+          "outcome": "Structured notes"
+        },
+        {
+          "session": 12,
+          "title": "Practice: seminar",
+          "outcome": "Rekaman seminar"
+        },
+        {
+          "session": 13,
+          "title": "Practice: charts",
+          "outcome": "Chart commentary"
+        },
+        {
+          "session": 14,
+          "title": "Practice: presentation structure",
+          "outcome": "Presentation outline"
+        },
+        {
+          "session": 15,
+          "title": "Practice: evidence & slides",
+          "outcome": "Slide deck ringkas"
+        },
+        {
+          "session": 16,
+          "title": "Practice: delivery",
+          "outcome": "Rehearsal recording"
+        },
+        {
+          "session": 17,
+          "title": "Practice: Q&A",
+          "outcome": "Q&A log"
+        },
+        {
+          "session": 18,
+          "title": "Practice: revision & AI",
+          "outcome": "Revision log"
+        },
+        {
+          "session": 19,
+          "title": "Academic assessment",
+          "outcome": "Rekaman + tulisan dinilai"
+        },
+        {
+          "session": 20,
+          "title": "Review & study plan",
+          "outcome": "Progress report dan rencana empat minggu"
+        }
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English for Work & Tech",
+      "category": "English Programs",
+      "line": "English",
+      "price": 3100000,
+      "sessions": 20,
+      "minutes": 120,
+      "prereq": "Mampu percakapan dasar; tujuan kerja jelas; proyek latihan boleh digunakan.",
+      "outcome": "Email/update kerja, rapat, interview dan penjelasan proyek yang jelas.",
+      "minStudents": 3,
+      "maxStudents": 6,
+      "status": "Usulan",
+      "prices": {
+        "4": 800000,
+        "10": 1700000,
+        "20": 3100000
+      },
+      "lessons": [
+        {
+          "session": 1,
+          "title": "Professional baseline",
+          "outcome": "Baseline audio dan tulisan"
+        },
+        {
+          "session": 2,
+          "title": "Clear email",
+          "outcome": "Dua email kerja"
+        },
+        {
+          "session": 3,
+          "title": "Progress update",
+          "outcome": "Update 90 detik"
+        },
+        {
+          "session": 4,
+          "title": "Work communication checkpoint",
+          "outcome": "Email + update; keluaran paket 4"
+        },
+        {
+          "session": 5,
+          "title": "Meetings",
+          "outcome": "Meeting notes"
+        },
+        {
+          "session": 6,
+          "title": "Disagreement",
+          "outcome": "Rekaman diskusi"
+        },
+        {
+          "session": 7,
+          "title": "Technical explanation",
+          "outcome": "Penjelasan dua menit"
+        },
+        {
+          "session": 8,
+          "title": "Async collaboration",
+          "outcome": "Dua artefak kerja"
+        },
+        {
+          "session": 9,
+          "title": "Experience stories",
+          "outcome": "Dua cerita interview"
+        },
+        {
+          "session": 10,
+          "title": "Checkpoint interview",
+          "outcome": "Interview recording; keluaran paket 10"
+        },
+        {
+          "session": 11,
+          "title": "Listening across accents",
+          "outcome": "Listening/action notes"
+        },
+        {
+          "session": 12,
+          "title": "Practice: stakeholder update",
+          "outcome": "Update lisan dan tertulis"
+        },
+        {
+          "session": 13,
+          "title": "Practice: demo narrative",
+          "outcome": "Demo outline"
+        },
+        {
+          "session": 14,
+          "title": "Practice: technical questions",
+          "outcome": "Question bank dan rekaman"
+        },
+        {
+          "session": 15,
+          "title": "Practice: difficult messages",
+          "outcome": "Pesan situasi sulit"
+        },
+        {
+          "session": 16,
+          "title": "Practice: negotiation",
+          "outcome": "Scope agreement"
+        },
+        {
+          "session": 17,
+          "title": "Practice: interview depth",
+          "outcome": "Rekaman dengan feedback"
+        },
+        {
+          "session": 18,
+          "title": "Integrated simulation",
+          "outcome": "Paket artefak komunikasi"
+        },
+        {
+          "session": 19,
+          "title": "Work assessment",
+          "outcome": "Penilaian individual"
+        },
+        {
+          "session": 20,
+          "title": "Progress & next steps",
+          "outcome": "Progress report dan practice plan"
+        }
+      ]
+    },
+    {
+      "id": "swe1",
+      "name": "Software Engineer Level 1",
+      "category": "Career Programs",
+      "line": "Career",
+      "price": 9900000,
+      "sessions": 30,
+      "minutes": 180,
+      "prereq": "Pemula siap latihan 4–6 jam/minggu; lanjut backend setelah checkpoint JavaScript/async/HTTP.",
+      "outcome": "Movie App: pelajaran dan final project persis sama dengan Frontend L1 + Backend L1, ditambah dua klinik portfolio gratis.",
+      "minStudents": 3,
+      "maxStudents": 6,
+      "status": "Usulan",
+      "prices": null,
+      "lessons": [
+        {
+          "session": 1,
+          "title": "Web, tools & Git",
+          "outcome": "Repo berjalan lokal dengan commit pertama"
+        },
+        {
+          "session": 2,
+          "title": "Figma: layout & hierarchy + Design tokens & CSS",
+          "outcome": "Dua frame dengan urutan informasi yang jelas + Token sheet dan kartu film HTML/CSS"
+        },
+        {
+          "session": 3,
+          "title": "Slicing: katalog responsif",
+          "outcome": "Hasil paket 4: halaman katalog statis dari Figma"
+        },
+        {
+          "session": 4,
+          "title": "JavaScript: data & functions + DOM, events & forms",
+          "outcome": "Fungsi katalog dengan fixture film fiktif + Katalog interaktif tanpa framework"
+        },
+        {
+          "session": 5,
+          "title": "Async & API states",
+          "outcome": "Panel data dengan empat state eksplisit"
+        },
+        {
+          "session": 6,
+          "title": "React: component & props + State & local favorites",
+          "outcome": "Komponen React dengan typed props sederhana + Favorit bertahan setelah reload pada browser yang sama"
+        },
+        {
+          "session": 7,
+          "title": "Checkpoint: mini movie browser",
+          "outcome": "Hasil paket 10: mini Movie App lokal dengan Figma dan README"
+        },
+        {
+          "session": 8,
+          "title": "Routing, TypeScript & readiness + Final project: Movie App brief",
+          "outcome": "Latihan multi-page siap masuk final + Brief Movie App, acceptance list dan desain yang disetujui"
+        },
+        {
+          "session": 9,
+          "title": "Final: app shell & design slicing",
+          "outcome": "UI final tersusun dari token dan komponen"
+        },
+        {
+          "session": 10,
+          "title": "Final: catalog & search + Final: detail & navigation",
+          "outcome": "Katalog dan pencarian final + Detail film dengan URL langsung"
+        },
+        {
+          "session": 11,
+          "title": "Final: favorites & storage",
+          "outcome": "Daftar favorit lokal final"
+        },
+        {
+          "session": 12,
+          "title": "Final: backend-ready integration + Final: tests & accessibility",
+          "outcome": "Frontend siap disambungkan ke API L1 + Test report dan perbaikan prioritas"
+        },
+        {
+          "session": 13,
+          "title": "Final: deploy & handover",
+          "outcome": "Demo, repo dan panduan setup"
+        },
+        {
+          "session": 14,
+          "title": "Final: demo & defense",
+          "outcome": "Portfolio milestone frontend Movie App"
+        },
+        {
+          "session": 15,
+          "title": "HTTP & API workspace",
+          "outcome": "Repo server dengan health endpoint"
+        },
+        {
+          "session": 16,
+          "title": "Routes & validation + SQL & data model",
+          "outcome": "Read API dengan kontrak JSON + Migration, seed dan data dictionary"
+        },
+        {
+          "session": 17,
+          "title": "Checkpoint: movie catalog API",
+          "outcome": "Hasil paket 4: API katalog read-only dengan dokumentasi"
+        },
+        {
+          "session": 18,
+          "title": "Writes & constraints + Identity with managed auth",
+          "outcome": "Latihan CRUD dan constraint + Auth adapter dan diagram alur token"
+        },
+        {
+          "session": 19,
+          "title": "Watchlist & ownership",
+          "outcome": "Watchlist privat per akun"
+        },
+        {
+          "session": 20,
+          "title": "Authorized CRUD + Integration & error handling",
+          "outcome": "Endpoint tulis dengan role checks + Mini frontend terhubung ke watchlist"
+        },
+        {
+          "session": 21,
+          "title": "Checkpoint: authenticated mini API",
+          "outcome": "Hasil paket 10: mini Movie API dengan auth dan ownership"
+        },
+        {
+          "session": 22,
+          "title": "Contracts & deployment rehearsal + Final project: Movie API contract",
+          "outcome": "Contract checklist dan deploy rehearsal + Backlog serta kontrak API final"
+        },
+        {
+          "session": 23,
+          "title": "Final: schema & catalog reads",
+          "outcome": "Database serta read API final"
+        },
+        {
+          "session": 24,
+          "title": "Final: auth & permissions + Final: persistent watchlist",
+          "outcome": "Login dan akses database final + Watchlist tersimpan di database"
+        },
+        {
+          "session": 25,
+          "title": "Final: frontend integration",
+          "outcome": "Movie App end-to-end"
+        },
+        {
+          "session": 26,
+          "title": "Final: validation & API docs + Final: integration & security tests",
+          "outcome": "Dokumentasi lengkap dengan contoh berhasil/gagal + Test suite dan bug log"
+        },
+        {
+          "session": 27,
+          "title": "Final: deployment & recovery",
+          "outcome": "Deployment guide, quota checklist dan fallback lokal"
+        },
+        {
+          "session": 28,
+          "title": "Final: full-stack demo & defense",
+          "outcome": "Portfolio milestone backend Movie App"
+        },
+        {
+          "session": 29,
+          "title": "Portfolio clinic 1: case studies",
+          "outcome": "Portfolio draft dengan dua milestone proyek dan batasan yang jujur."
+        },
+        {
+          "session": 30,
+          "title": "Portfolio clinic 2: demo & interview",
+          "outcome": "Portfolio siap dibagikan dan rekaman demo singkat."
+        }
+      ]
+    },
+    {
+      "id": "swe",
+      "name": "Software Engineer Level 2",
+      "category": "Career Programs",
+      "line": "Career",
+      "price": 12600000,
+      "sessions": 30,
+      "minutes": 180,
+      "prereq": "SWE L1 atau placement React, API, SQL dan auth; Level 2 bukan pengulangan dasar.",
+      "outcome": "Instagram Clone App: pelajaran dan final project persis sama dengan Frontend L2 + Backend L2, ditambah dua klinik portfolio gratis.",
+      "minStudents": 3,
+      "maxStudents": 6,
+      "status": "Usulan",
+      "prices": null,
+      "lessons": [
+        {
+          "session": 1,
+          "title": "Level 2 readiness & architecture",
+          "outcome": "Peta Instagram Clone App dan gap pribadi"
+        },
+        {
+          "session": 2,
+          "title": "Figma: user flows & components + Design tokens & slicing system",
+          "outcome": "Figma flow dan reusable UI kit + Design token sheet dan primitive UI"
+        },
+        {
+          "session": 3,
+          "title": "Login page & responsive slicing",
+          "outcome": "Hasil paket 4: login/register responsif dari Figma"
+        },
+        {
+          "session": 4,
+          "title": "Typed API adapter & contracts + Server state & cache",
+          "outcome": "Lapisan API typed yang dapat diganti + Feed latihan dengan query lifecycle"
+        },
+        {
+          "session": 5,
+          "title": "Forms & mutation states",
+          "outcome": "Form mutation yang dapat dipulihkan"
+        },
+        {
+          "session": 6,
+          "title": "Image selection & preview + Relations & navigation",
+          "outcome": "Upload widget lokal dengan batas jelas + Layar relasi dengan state konsisten"
+        },
+        {
+          "session": 7,
+          "title": "Checkpoint: social UI prototype",
+          "outcome": "Hasil paket 10: prototype Instagram Clone App dengan Figma dan mocks"
+        },
+        {
+          "session": 8,
+          "title": "Integration rehearsal & accessibility + Final project: Instagram Clone App",
+          "outcome": "Readiness report dan prioritas perbaikan + Brief, UI kit dan acceptance criteria final"
+        },
+        {
+          "session": 9,
+          "title": "Final: auth & app shell",
+          "outcome": "Shell dan auth final"
+        },
+        {
+          "session": 10,
+          "title": "Final: feed & post detail + Final: comments & likes",
+          "outcome": "Feed serta detail final + Interaksi sosial final"
+        },
+        {
+          "session": 11,
+          "title": "Final: upload & create post",
+          "outcome": "Alur buat post dengan gambar"
+        },
+        {
+          "session": 12,
+          "title": "Final: profile & selected extension + Final: tests, accessibility & design QA",
+          "outcome": "Profil final dan satu extension terdokumentasi + Laporan tes serta perbaikan UX"
+        },
+        {
+          "session": 13,
+          "title": "Final: release & portfolio evidence",
+          "outcome": "Demo Instagram Clone App dan case study draft"
+        },
+        {
+          "session": 14,
+          "title": "Final: demo & independent change",
+          "outcome": "Portfolio milestone frontend Level 2"
+        },
+        {
+          "session": 15,
+          "title": "Level 2 contract & threat model",
+          "outcome": "Contract map Instagram Clone App"
+        },
+        {
+          "session": 16,
+          "title": "Relational schema & constraints + Auth adapter & row policies",
+          "outcome": "ERD dan migration latihan + Role matrix dan policy tests"
+        },
+        {
+          "session": 17,
+          "title": "Checkpoint: owned posts API",
+          "outcome": "Hasil paket 4: API posts berizin dengan kontrak JSON"
+        },
+        {
+          "session": 18,
+          "title": "Transactions, comments & counts + Likes & idempotent operations",
+          "outcome": "API komentar dengan owner checks + Like/unlike API yang deterministik"
+        },
+        {
+          "session": 19,
+          "title": "Storage & upload permissions",
+          "outcome": "Upload latihan dengan izin pemilik"
+        },
+        {
+          "session": 20,
+          "title": "Follow, save & query design + API compatibility & errors",
+          "outcome": "Relasi opsional pada sandbox + Contract test suite dan daftar deviasi"
+        },
+        {
+          "session": 21,
+          "title": "Checkpoint: social API sandbox",
+          "outcome": "Hasil paket 10: sandbox API sosial beserta policy tests"
+        },
+        {
+          "session": 22,
+          "title": "Hosting rehearsal & budget + Final project: contract Instagram Clone App",
+          "outcome": "Deployment spike dan quota budget + Contract, ERD dan backlog final"
+        },
+        {
+          "session": 23,
+          "title": "Final: identity & profile policies",
+          "outcome": "Identity dan profile API final"
+        },
+        {
+          "session": 24,
+          "title": "Final: posts, feed & media + Final: comments & likes correctness",
+          "outcome": "Posts/feed/upload end-to-end + Interaksi inti final"
+        },
+        {
+          "session": 25,
+          "title": "Final: extension & client integration",
+          "outcome": "API final terintegrasi dengan scope pilihan"
+        },
+        {
+          "session": 26,
+          "title": "Final: contract & integration tests + Final: security & quota review",
+          "outcome": "Regression report dan API docs + Security checklist berbukti dan issue register"
+        },
+        {
+          "session": 27,
+          "title": "Final: deploy, backup & handover",
+          "outcome": "Deployment guide, quota usage dan fallback lokal"
+        },
+        {
+          "session": 28,
+          "title": "Final: API defense & end-to-end demo",
+          "outcome": "Portfolio milestone backend Level 2"
+        },
+        {
+          "session": 29,
+          "title": "Portfolio clinic 1: case studies",
+          "outcome": "Portfolio draft dengan dua milestone proyek dan batasan yang jujur."
+        },
+        {
+          "session": 30,
+          "title": "Portfolio clinic 2: demo & interview",
+          "outcome": "Portfolio siap dibagikan dan rekaman demo singkat."
+        }
+      ]
+    },
+    {
+      "id": "campus",
+      "name": "Mentoring Masuk Kampus",
+      "category": "High School to University",
+      "line": "Mentoring",
+      "price": 2200000,
+      "sessions": 4,
+      "minutes": 120,
+      "prereq": "Bawa profil, tujuan dan dokumen sendiri; review terarah, tanpa janji diterima.",
+      "outcome": "Shortlist bersumber, dokumen relevan dan rencana aplikasi.",
+      "minStudents": 1,
+      "maxStudents": 1,
+      "status": "Klinik 4 sesi",
+      "prices": null,
+      "lessons": [
+        {
+          "session": 1,
+          "title": "Profile & priorities",
+          "outcome": "Profil studi dan kriteria keputusan"
+        },
+        {
+          "session": 2,
+          "title": "Shortlist & sources + Application planning",
+          "outcome": "Shortlist dengan biaya/jalur bersumber + Action plan aplikasi"
+        },
+        {
+          "session": 3,
+          "title": "Interview & decision",
+          "outcome": "Rencana 30 hari dan revisi dokumen"
+        }
+      ]
+    },
+    {
+      "id": "career",
+      "name": "Mentoring Cari Kerja",
+      "category": "Career Programs",
+      "line": "Mentoring",
+      "price": 2200000,
+      "sessions": 3,
+      "minutes": 180,
+      "prereq": "Bawa profil, tujuan dan dokumen sendiri; review terarah, tanpa janji diterima.",
+      "outcome": "CV, case study portfolio, mock interview dan rencana lamaran.",
+      "minStudents": 1,
+      "maxStudents": 1,
+      "status": "Klinik karier 3 sesi",
+      "prices": null,
+      "lessons": [
+        {
+          "session": 1,
+          "title": "Role & gap audit",
+          "outcome": "Gap map dan target role"
+        },
+        {
+          "session": 2,
+          "title": "CV & portfolio + Interview practice",
+          "outcome": "CV dan portfolio draft + Feedback individual dan contoh jawaban"
+        },
+        {
+          "session": 3,
+          "title": "Search plan",
+          "outcome": "Rencana 30 hari"
+        }
+      ]
+    }
+  ],
+  "bundles": [
+    {
+      "id": "little-python",
+      "name": "Little Python Programmer Complete",
+      "price": 7400000,
+      "original": 8700000,
+      "description": "Level 1–3 lengkap: 45 sesi × 120 menit, dari dasar Python dan game hingga algoritma."
+    },
+    {
+      "id": "little-software",
+      "name": "Little Software Developer Complete",
+      "price": 7400000,
+      "original": 8700000,
+      "description": "Level 1–3 lengkap: 45 sesi × 120 menit, dari desain web, JavaScript hingga API dan database."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "tool": "Built-in image_gen",
+  "edits": [
+    {
+      "key": "heroHijab",
+      "path": "D:/Exoduseus/Skopos/moonbyte-website/public/images/hero.png",
+      "prompt": "Edit target: attached MoonByte wide hero illustration. Preserve the exact wide composition, vivid royal blue/cyan/yellow painterly brushstroke anime art direction, faces, cheerful expressions, boy, laptop/tablet, and negative space on the LEFT for website text. Make the girl on the left wear a beautiful pale blue hijab covering ALL hair, ears and neck, naturally tucked into her existing blue overalls, with no hair strands visible. The woman at far right already wears a cream hijab: preserve her hijab and glasses. All female characters must have hijab and covered neck/hair. Also REMOVE the two floating large rectangular browser windows at the TOP (code editor and image editor), the small floating </> tile on the left above the girl, and the floating image-thumbnail tile at right. Paint over only those removed objects with matching blue brushstroke background. These windows will be recreated as independently animated web elements; do NOT put any replacement windows into the image. Preserve the yellow gamepad, star, layers icon and all people/devices, proportions, placement, colors and texture. No new text. Landscape 16:9.",
+      "output": "public/images/hero-hijab.png"
+    },
+    {
+      "key": "vibeHijab",
+      "path": "D:/Exoduseus/Skopos/moonbyte-website/public/images/vibe-coding-studio.png",
+      "prompt": "Edit target: this exact MoonByte Vibe Coding Studio poster. Change ONLY the woman's exposed hair/neck to a neatly wrapped light cream hijab covering all hair, ears and neck, with natural painterly fabric folds. Keep her face, expression, pose, glasses (resting over hijab), headphones, yellow jacket, laptop, all layout, artwork, vibrant hand-painted texture and colors identical. Preserve EVERY piece of printed text and number exactly, especially Vibe Coding Studio: Game & Creator Apps, Rp4.800.000 and 14 sesi × 3 jam. Do not add people or change composition. Output same portrait poster proportions.",
+      "output": "public/images/vibe-coding-studio-hijab.png"
+    },
+    {
+      "key": "dataHijab",
+      "path": "D:/Exoduseus/Skopos/moonbyte-website/public/images/data-analyst.png",
+      "prompt": "Edit target: this exact MoonByte Data Analyst poster. Change ONLY the woman's exposed hair/ears/neck to a neatly wrapped pale cream/light blue hijab covering all hair, ears and neck, with natural painterly fabric folds. Keep her face, expression, pose, light jacket, laptop, all layout, artwork, vibrant hand-painted texture and colors identical. Preserve EVERY piece of printed text and number exactly, especially Data Analyst: SQL & Dashboard, Rp3.800.000 and 14 sesi × 3 jam. Do not add people or change composition. Output same portrait poster proportions.",
+      "output": "public/images/data-analyst-hijab.png"
+    },
+    {
+      "key": "codeWindow",
+      "prompt": "Edit target: the supplied MoonByte hero illustration. Extract/recreate ONLY the large floating code-editor browser window from the upper center as a standalone cutout on a genuinely TRANSPARENT background. Preserve its painted brushstroke texture, blue-violet frame, white hand-painted outline, dark navy editor interior, cyan </> symbol and short colorful cyan, purple and yellow code lines, and three red/yellow/green window dots. No people, no background, no extra icons, no shadows outside the object. Straight-on window with slightly organic hand-painted edges, no perspective tilt (tilt will be animated in website code). Tight framing with 8% transparent margin, landscape aspect ratio about 1.5:1. This will be placed back over the same painted website hero and independently animated.",
+      "output": "public/images/hero-code-window.png"
+    },
+    {
+      "key": "imageWindow",
+      "prompt": "Edit target: the supplied MoonByte hero illustration. Extract/recreate ONLY the floating image-editor browser window from the upper right as a standalone cutout on a genuinely TRANSPARENT background. Preserve its hand-painted brushstroke texture, light blue frame with organic white outline, three red/yellow/green dots, landscape thumbnail with blue mountains green hills and yellow sun, right sidebar with small paint pen and three color swatches. No people, no blue backdrop, no extra objects, no shadows outside the object. Straight-on window with slightly organic hand-painted edges, no perspective tilt (tilt will be animated in website code). Tight framing with 8% transparent margin, landscape aspect ratio about 1.5:1. This is a website asset to animate independently over the original painted hero.",
+      "output": "public/images/hero-image-window.png"
+    }
+  ]
+}
