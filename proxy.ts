@@ -12,7 +12,10 @@ export function proxy(request: NextRequest) {
     "img-src 'self' data: blob:",
     "font-src 'self'",
     `connect-src 'self'${dev ? ' ws: wss:' : ''}`,
-    "object-src 'none'", "base-uri 'self'", "form-action 'self'", "frame-ancestors 'none'",
+    "object-src 'none'",
+    "base-uri 'self'",
+    "form-action 'self'",
+    "frame-ancestors 'none'",
     ...(dev ? [] : ['upgrade-insecure-requests']),
   ].join('; ');
   const requestHeaders = new Headers(request.headers);

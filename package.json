@@ -6,7 +6,11 @@
     "dev": "node init && next dev --hostname 127.0.0.1 --port 3000",
     "build": "node init && next build",
     "start": "node init && next start --hostname 127.0.0.1 --port 3000",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "predev": "node scripts/sync-catalog.mjs --if-workspace",
+    "prebuild": "node scripts/sync-catalog.mjs --if-workspace",
+    "sync:catalog": "node scripts/sync-catalog.mjs",
+    "check:catalog": "node scripts/sync-catalog.mjs --check"
   },
   "dependencies": {
     "framer-motion": "^12.23.24",
